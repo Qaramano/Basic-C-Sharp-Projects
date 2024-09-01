@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.genruntimeconfig.cache
