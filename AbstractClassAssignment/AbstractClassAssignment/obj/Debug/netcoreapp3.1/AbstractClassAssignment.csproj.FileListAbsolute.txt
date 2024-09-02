@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache

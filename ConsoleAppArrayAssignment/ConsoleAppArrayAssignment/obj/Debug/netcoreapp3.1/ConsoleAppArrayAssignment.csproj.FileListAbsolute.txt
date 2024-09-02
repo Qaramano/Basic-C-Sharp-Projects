@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\netcoreapp3.1\ConsoleAppArrayAssignment.genruntimeconfig.cache

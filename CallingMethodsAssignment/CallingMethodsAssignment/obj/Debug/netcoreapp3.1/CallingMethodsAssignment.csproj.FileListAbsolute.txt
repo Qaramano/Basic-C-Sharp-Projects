@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.genruntimeconfig.cache

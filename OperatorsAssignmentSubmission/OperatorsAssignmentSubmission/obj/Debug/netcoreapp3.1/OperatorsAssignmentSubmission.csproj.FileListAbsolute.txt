@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\bin\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\bin\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\bin\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\bin\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\bin\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\bin\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\OperatorsAssignmentSubmission\obj\Debug\netcoreapp3.1\OperatorsAssignmentSubmission.genruntimeconfig.cache

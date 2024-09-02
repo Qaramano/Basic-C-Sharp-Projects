@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppAssignmentPart1/1.0.0": {
+        "runtime": {
+          "ConsoleAppAssignmentPart1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppAssignmentPart1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

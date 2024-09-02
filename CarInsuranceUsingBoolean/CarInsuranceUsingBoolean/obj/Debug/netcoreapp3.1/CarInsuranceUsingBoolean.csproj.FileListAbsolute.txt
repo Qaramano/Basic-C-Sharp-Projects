@@ -1,0 +1,12 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\bin\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\bin\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\bin\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\bin\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\bin\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\bin\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\obj\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\obj\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\obj\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\obj\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\obj\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\CarInsuranceUsingBoolean\CarInsuranceUsingBoolean\obj\Debug\netcoreapp3.1\CarInsuranceUsingBoolean.genruntimeconfig.cache

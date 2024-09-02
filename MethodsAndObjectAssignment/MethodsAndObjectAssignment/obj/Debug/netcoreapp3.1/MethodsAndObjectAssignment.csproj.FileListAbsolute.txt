@@ -1,0 +1,13 @@
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectAssignment.exe
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectAssignment.deps.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectAssignment.runtimeconfig.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectAssignment.runtimeconfig.dev.json
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\bin\Debug\netcoreapp3.1\MethodsAndObjectAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.csproj.AssemblyReference.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.AssemblyInfoInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.AssemblyInfo.cs
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.dll
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.pdb
+C:\Users\OmarQ\Documents\myRepository\myCodefiles\Basic-C-Sharp-Projects\MethodsAndObjectAssignment\MethodsAndObjectAssignment\obj\Debug\netcoreapp3.1\MethodsAndObjectAssignment.genruntimeconfig.cache
